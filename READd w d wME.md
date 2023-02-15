@@ -9,25 +9,68 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 +  Providing an overview of the history and different schools of Artificial Intelligence.
 +  Covering the latest advancements in big data-driven AI technologies. 
 +  Illustrating real-world applications such as ChatGPT and protein folding prediction.
-  #### Lecture-02: Automatic Differentiation and PyTorch Programming;<br>
-    +  Introducing automatic differentiation technique and its application scenarios.
-    +  Introducing the PyTorch automatic differentiation programming platform.
-    +  Providing an example of using PyTorch.
-  #### Lecture-03: Fundamentals of Machine Learning;<br>
-    +  What is machine learning and what are its simple classifications? 
-    +  What are the basic steps of machine learning? 
-    +  Performance evaluation and common issues in machine learning. 
-    +  Introduction to simple feedforward neural networks and backpropagation algorithm.
-  #### Lecture-04: Common Neural Network Architectures;<br>
-  #### Lecture-05: Theory of Representation Learning;<br>
-  #### Lecture-06: From Deep Neural Networks to Neural ODE;<br>
-  #### Lecture-07: Overview of Generative Models;<br>
-  #### Lecture-08: Data-Driven Modeling of Complex Systems;<br>
-  #### Lecture-09: Graph Neural Networks;<br>
-  #### Lecture-10: From Transformer to ChatGPT;<br>
-  #### Lecture-11: Causal Machine Learning;<br>
-  #### Lecture-12: Reinforcement Learning;<br>
-
+#### Lecture-02: Automatic Differentiation and PyTorch Programming;<br>
++  Introducing automatic differentiation technique and its application scenarios.
++  Introducing the PyTorch automatic differentiation programming platform.
++  Providing an example of using PyTorch.
+#### Lecture-03: Fundamentals of Machine Learning;<br>
++  What is machine learning and what are its simple classifications? 
++  What are the basic steps of machine learning? 
++  Performance evaluation and common issues in machine learning. 
++  Introduction to simple feedforward neural networks and backpropagation algorithm.
+#### Lecture-04: Common Neural Network Architectures;<br>
++  Basic and common neural network architectures and programming practices such as feedforward neural networks, convolutional neural networks, and recurrent neural networks. 
++  Classification problems and practices in image processing and natural language processing.
++  Fundamental methods of data processing.
+#### Lecture-05: Theory of Representation Learning;<br>
++  Representation learning theory.
++  Representation learning and transfer learning.
++  Pre-training and transfer learning.
++  Examples of transfer learning in image tasks.
++  Introduction to word embedding techniques and their applications.
+#### Lecture-06: From Deep Neural Networks to Neural ODE;<br>
++  Numerical algorithms for solving ordinary differential equations.
++  Residual networks.
++  Principles of Neural ODE.
++  Application examples.
++  Optimal control and adjoint algorithm.
+#### Lecture-07: Overview of Generative Models;<br>
++  The difference between generative models and predictive models.
++  Classification of generative models.
++  Introduction to generative models, including GANs, VAEs, Normalizing Flow, and Diffusion Model.
+#### Lecture-08: Data-Driven Modeling of Complex Systems;<br>
++  Introduction to complex systems.
++  Modeling methods for complex systems.
++  Data-driven modeling methods for complex systems.
++  Complete closed loop system including decision-making and feedback.
++  Learning causal relationships.
++  Reinforcement learning framework based on world models.
+#### Lecture-09: Graph Neural Networks;<br>
++  Graph and Network.
++  Basic principles of Graph Neural Networks.
++  Basic applications of Graph Neural Networks.
++  Node classification.
++  Data-driven modeling of complex systems based on Graph Neural Networks.
+#### Lecture-10: From Transformer to ChatGPT;<br>
++  Attention mechanism.
++  Self-attention mechanism and network structure learning.
++  Introduction to Transformer architecture.
++  Applications of Transformer.
++  Self-supervised learning mechanism based on language models.
++  Introduction to architectures such as BERT, GPT-3, and ChatGPT.
+#### Lecture-11: Causal Machine Learning;<br>
++  Causation and Correlation;
++  Introduction to Causal Inference;
++  Introduction to Causal Discovery;
++  Causal Representation Learning.
+#### Lecture-12: Reinforcement Learning;<br>
++  Basic framework of reinforcement learning.
++  Classification of reinforcement learning.
++  Q-learning algorithm.
++  Deep reinforcement learning.
++  Reinforcement learning algorithms based on the World Model.
++  Causality and reinforcement learning.
++  Reinforcement learning and control/decision-making.
 ## List of Papers
 
 | Paper | |
