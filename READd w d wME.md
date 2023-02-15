@@ -6,18 +6,18 @@ This course comprehensively introduces the latest developments in *Big Data Driv
 ## Outline
 
   #### Lecture-01: Introduction to Big Data and Artificial Intelligence;<br>
-    +Providing an overview of the history and different schools of Artificial Intelligence.
-    +Covering the latest advancements in big data-driven AI technologies. 
-    +Illustrating real-world applications such as ChatGPT and protein folding prediction.
+    +  Providing an overview of the history and different schools of Artificial Intelligence.
+    +  Covering the latest advancements in big data-driven AI technologies. 
+    +  Illustrating real-world applications such as ChatGPT and protein folding prediction.
   #### Lecture-02: Automatic Differentiation and PyTorch Programming;<br>
-    + Introducing automatic differentiation technique and its application scenarios.
-    + Introducing the PyTorch automatic differentiation programming platform.
-    + Providing an example of using PyTorch.
+    +  Introducing automatic differentiation technique and its application scenarios.
+    +  Introducing the PyTorch automatic differentiation programming platform.
+    +  Providing an example of using PyTorch.
   #### Lecture-03: Fundamentals of Machine Learning;<br>
-    + What is machine learning and what are its simple classifications? 
-    + What are the basic steps of machine learning? 
-    + Performance evaluation and common issues in machine learning. 
-    + Introduction to simple feedforward neural networks and backpropagation algorithm.
+    +  What is machine learning and what are its simple classifications? 
+    +  What are the basic steps of machine learning? 
+    +  Performance evaluation and common issues in machine learning. 
+    +  Introduction to simple feedforward neural networks and backpropagation algorithm.
   #### Lecture-04: Common Neural Network Architectures;<br>
   #### Lecture-05: Theory of Representation Learning;<br>
   #### Lecture-06: From Deep Neural Networks to Neural ODE;<br>
